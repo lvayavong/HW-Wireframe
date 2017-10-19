@@ -14,8 +14,7 @@ body{
 	background-color: #777;
 	color:gray;
 	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
-	font-size: 18px
-
+	font-size: 18px;
 }
 
 #section{
@@ -76,7 +75,8 @@ body{
 	}	
 
 #footer{
-	position: relative;
-	left: 0;
-    bottom: 0;
+  position: absolute;
+  right: 0;
+  bottom: 240px;
+  left: 0;
 }	
